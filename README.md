@@ -15,16 +15,15 @@ This will take ~2 hours.
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d0917dbd29c0218a_527321254-671ef482-5fce-4c28-94b9-5f2684285427.jpg" alt="image" />
 
 ---
-**Note for CAD nerds: **
+**Note for CAD nerds:**
 
-I know there will people saying [insert-cad-here] is better and whatnot, however fusion is what im most comfortable with , if you’re more familiar with other CAD software you’re more than welcome to use that. I’m not saying fusion is the perfect or the best, because its neither.
+I know there will people saying [insert-cad-here] is better and whatnot, however fusion is what im most comfortable with, if you’re more familiar with other CAD software you’re more than welcome to use that. I’m not saying fusion is the perfect or the best, because its neither.
 But even if you do know other CAD, why not try something new, try fusion :3 
 
 
 # 1). an introduction
 
 **A quick pic of what we are trying to make**
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0569238f119d692b_527323960-3fe5b671-ccde-46fb-a34b-4657f6b16c87.png" alt="image" />
 <img src="https://github.com/user-attachments/assets/671ef482-5fce-4c28-94b9-5f2684285427" alt="image" />
 
 this is just a plain ruler, most rullers will start off looking something like that, however i encourage and expect that you will customise them to your hearts content to make your ruler uniquely yours :3
@@ -40,11 +39,10 @@ all the tools we will be using to draw sketches and turn those sketches into 3D 
 
 **my favourite key bind**
 s - search
-<img alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd912bde0f95723d_527326829-e948c10d-9b12-437d-89c9-a60ad9c4f8bd.png" />
 
 <img width="724" height="439" alt="image" src="https://github.com/user-attachments/assets/e948c10d-9b12-437d-89c9-a60ad9c4f8bd" />
 
-if you ever get stuck because i say something and you just can’t find it , this key bind is a life saver.
+if you ever get stuck because i say something and you just can’t find it, this key bind is a life saver.
 
 it’s also cool because if you’re looking for a feature in fusion you can just type in the name and see if it exists
 
@@ -320,10 +318,8 @@ hopefully you are at a point that looks something like this!
 
 
 # finish adding the rest of ruler
----
 
 
----
 Now you should have a ruler!
 however, you’re not quite done yet
 for the next part you’re on your own
