@@ -12,9 +12,7 @@ This will take ~2 hours.
 
 **Prize: Your ruler printed and mailed to you + 2 snowflakes**
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d0917dbd29c0218a_527321254-671ef482-5fce-4c28-94b9-5f2684285427.jpg" alt="image">
-
-<img src="" alt="image">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d0917dbd29c0218a_527321254-671ef482-5fce-4c28-94b9-5f2684285427.jpg" alt="image" />
 
 ---
 **Note for CAD nerds: **
@@ -26,9 +24,8 @@ But even if you do know other CAD, why not try something new, try fusion :3
 # 1). an introduction
 
 **A quick pic of what we are trying to make**
-<img src="" alt="image">
-[image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0569238f119d692b_527323960-3fe5b671-ccde-46fb-a34b-4657f6b16c87.png)
-![DSC50000-347](https://github.com/user-attachments/assets/671ef482-5fce-4c28-94b9-5f2684285427)
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0569238f119d692b_527323960-3fe5b671-ccde-46fb-a34b-4657f6b16c87.png" alt="image" />
+<img src="https://github.com/user-attachments/assets/671ef482-5fce-4c28-94b9-5f2684285427" alt="image" />
 
 this is just a plain ruler, most rullers will start off looking something like that, however i encourage and expect that you will customise them to your hearts content to make your ruler uniquely yours :3
 
@@ -38,22 +35,12 @@ this is just a plain ruler, most rullers will start off looking something like t
 ## Fusion 360 UI
 
 hopefully your fusion360 looks something like this
-<img src="" alt="image">
 <img width="2514" height="1208" alt="image" src="https://github.com/user-attachments/assets/3fe5b671-ccde-46fb-a34b-4657f6b16c87" />
 all the tools we will be using to draw sketches and turn those sketches into 3D things should all be at the top of the screen
 
 **my favourite key bind**
 s - search
-<img src="" alt="image">
-[image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd912bde0f95723d_527326829-e948c10d-9b12-437d-89c9-a60ad9c4f8bd.png
-
-
-
-
-
-
-
-)
+<img alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd912bde0f95723d_527326829-e948c10d-9b12-437d-89c9-a60ad9c4f8bd.png" />
 
 <img width="724" height="439" alt="image" src="https://github.com/user-attachments/assets/e948c10d-9b12-437d-89c9-a60ad9c4f8bd" />
 
@@ -95,20 +82,16 @@ so please keep your maximum dimensions below that
 
 
 We want to start by drawing out an overhead outline of out ruler
-<img src="" alt="image">
-![_DSC2267](https://github.com/user-attachments/assets/ca7f1040-3068-4fc7-ab95-b10ee664e16e)
-<img src="" alt="image">
+<img alt="_DSC2267" src="https://github.com/user-attachments/assets/ca7f1040-3068-4fc7-ab95-b10ee664e16e" />
 <img width="1919" height="1177" alt="image" src="https://github.com/user-attachments/assets/f51ba94f-7f8a-49c0-84e3-379ff05b2cc4" />
 
 then we need to select a plane to start drawing on 
 you can click any of the orange squares and it will work
 
 your screen should look something like this
-<img src="" alt="image">
 <img width="1919" height="1177" alt="image" src="https://github.com/user-attachments/assets/8f7153ef-34c5-4cc3-8ec0-5ebb261cb168" />
 
 now we can use the 2-point rectangle tool to draw a rectangle that will define how big our ruler is!
-<img src="" alt="image">
 <img width="1919" height="1176" alt="image" src="https://github.com/user-attachments/assets/d9e713d4-4cc2-4485-87b7-3345cfa5112b" />
 
 with the 2-point rectangle tool:
@@ -117,17 +100,14 @@ with the 2-point rectangle tool:
   - you press tab to switch between them
 
 your ruler should look something like this
-<img src="" alt="image">
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9d402ac1-5254-4a66-9bc4-6d9b2e94ba19" />
 
 now we can press finish sketch to finish the sketch
-<img src="" alt="image">
 <img width="1919" height="1174" alt="image" src="https://github.com/user-attachments/assets/82a551f1-e613-4f66-b2ad-db62b8dc8c3a" />
 
 next we want to make the 2d drawing into the start of our 3d ruler
 to do this we use the extrude tool
 you can either click the icon
-<img src="" alt="image">
 <img width="43" height="59" alt="image" src="https://github.com/user-attachments/assets/67815310-567a-468c-9251-46e1a6b78b27" />
 
 or use the shortcut - e 
@@ -142,7 +122,6 @@ now we can extrude it the distance we want by setting the distance number in the
 I’m going to make my ruler 3mm thick
 
 so, you should be here
-<img src="" alt="image">
 <img width="1919" height="1176" alt="image" src="https://github.com/user-attachments/assets/0bb1c539-53fb-469e-8aec-1ef5bce51c77" />
 
 and you can press ok now
@@ -165,13 +144,11 @@ gradations smaller than 1mm probably won’t print due to the 0.4mm nozzles that
 the back ruler has 5mm spacings
 the closer one has 1mm spacings
 personally, i think the 5mm ones are clearer to read 
-<img src="" alt="image">
-![_DSC2270](https://github.com/user-attachments/assets/da2270f6-fc01-45d6-b147-9bd4539d4304)
+<img alt="_DSC2270" src="https://github.com/user-attachments/assets/da2270f6-fc01-45d6-b147-9bd4539d4304" />
 
 
 a closer up pic of the 1mm gradation ruler
-<img src="" alt="image">
-![_DSC2269-2](https://github.com/user-attachments/assets/d8f0afbd-0915-424a-b7a4-50ebd5d00f9d)
+<img alt="_DSC2269-2" src="https://github.com/user-attachments/assets/d8f0afbd-0915-424a-b7a4-50ebd5d00f9d" />
 
 
 for my ruler I want short marks every 5mm
@@ -182,13 +159,11 @@ so let’s start on the smaller ones
 we want to start by making 1 mark in the ruler
 
 to do that we now  draw a sketch of what the marks look like
-<img src="" alt="image">
 <img width="1919" height="1147" alt="image" src="https://github.com/user-attachments/assets/26fd2715-9ef7-4335-9bcd-d54ae11c7d27" />
 so we click the new sketch button
 and click the top of our ruler where we want the mark
 
 my prefered method for doing it goes something like this
-<img src="" alt="image">
 <img width="1918" height="1147" alt="image" src="https://github.com/user-attachments/assets/018d1652-bd21-467c-96da-f17466deceb9" />
 drawing a line how far apart the marks should be from the edge
 so, for me 5mm
@@ -200,18 +175,14 @@ so, we can draw a two 0.2mm x 5mm rectangle on either side
 
 next we finish the sketch
 and then extrude into the ruler to make the marking! :yay:
-<img src="" alt="image">
 <img width="1919" height="1178" alt="image" src="https://github.com/user-attachments/assets/7f077ba6-e1b4-49ac-b2a5-36636924a70c" />
 
-<img src="" alt="image">
 <img width="1919" height="1170" alt="image" src="https://github.com/user-attachments/assets/349580c7-5508-4ddd-b30e-bf666dfdab2b" />
 like this!
 
-<img src="" alt="image">
 <img width="1917" height="1175" alt="image" src="https://github.com/user-attachments/assets/4654bc43-315d-487d-b4c2-b242da0fc359" />
 
 now we are going to use a pattern to make the pattern continue down the ruler!
-<img src="" alt="image">
 <img width="1916" height="1176" alt="image" src="https://github.com/user-attachments/assets/65891933-f245-4e8a-a5f7-a6391c0e7c7e" />
 
 we are trying to pattern the cut we made, which is a feature
